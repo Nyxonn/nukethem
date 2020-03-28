@@ -1,4 +1,4 @@
-# nukethem by goldblack
+# 💥 nukethem by goldblack
 ### I am not responsible for what you do with this script.
 ### Made only for educational purposes.
 
